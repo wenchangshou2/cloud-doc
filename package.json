@@ -116,7 +116,7 @@
     "concurrently": "^5.1.0",
     "cross-env": "^7.0.0",
     "easymde": "^2.9.0",
-    "electron": "^8.0.0",
+    "electron": "^18.3.7",
     "electron-builder": "^22.3.2",
     "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
